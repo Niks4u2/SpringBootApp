@@ -15,7 +15,6 @@ import org.springframework.web.servlet.ModelAndView;
 import com.nikhil.sportyshoes.model.Cart;
 import com.nikhil.sportyshoes.model.PaytmDetails;
 import com.nikhil.sportyshoes.model.Product;
-import com.paytm.pg.merchant.PaytmChecksum;
 
 @Controller
 public class PaymentController {
